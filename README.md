@@ -24,7 +24,7 @@ from printree import binarytree
 ## Features ​​​🔥​
 - No need to for any modification in the original python code.
 - You can use your own NODE class for creating and operating your binary tree.
-- Thus, helping us to add as many attributes in the NODE class that we require, that can be used in the future for other operations. 
+- Thus, helping us to add as many attributes in the NODE class according our requirements. 
 - When a NODE is not present/NULL, it will be presented as ​​​❓​ the NULL  value.
 - Equally spaced representation of the tree.
 - Clean and elegant look for clear visualization
