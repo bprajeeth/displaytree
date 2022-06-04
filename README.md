@@ -34,4 +34,4 @@ from printree import binarytree
 - Compatible with all major operating systems.
 
 ## Project links ​​​🔗​
-- #### ![Github](https://github.com/bprajeeth/printree)
+- #### [Github](https://github.com/bprajeeth/printree)
