@@ -3,7 +3,7 @@
 ### **printree** is a **Python package** that allows us to **visualize our binarytree**.
 
 ## Compatibility ​​​🐍​
-##### This package is compatible with both **Python 2** and **Python 3**
+#### This package is compatible with both **Python 2** and **Python 3**
 
 ## Install ​🖥️​
 ```
@@ -13,9 +13,9 @@
 ```
 from printree import binarytree
 ```
-##### ``` binarytree(root_node, "right", "left", "value")```
+#### ``` binarytree(root_node, "right", "left", "value")```
 - The above python syntax prints the binary tree in the shape/structure of the created tree, hence helping us to visualize our created tree.
-> ##### There are **Four arguments** that should be passed: 
+> #### There are **Four arguments** that should be passed: 
 > - **root_node** - Pass the root node of the created tree.
 > - **right** - Pass the pointer attribute that points to the right node as a string. 
 > - **left** - Pass the pointer attribute that points to the left node as a string.
