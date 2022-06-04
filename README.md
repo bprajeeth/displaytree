@@ -1,6 +1,6 @@
-# **printree** - Python Package 
+# **displaytree** - Python Package 
 
-### **printree** is a **Python package** that allows us to **visualize our binarytree**.
+### **displaytree** is a **Python package** that allows us to **visualize our binarytree**.
 
 ## Compatibility ​​​🐍​
 #### This package is compatible with both **Python 2** and **Python 3**
@@ -11,7 +11,7 @@
 ```
 ## Usage ​​📝​
 ```
-from printree import binarytree
+from displaytree import binarytree
 ```
 #### ``` binarytree(root_node, "right", "left", "value")```
 - The above python syntax prints the binary tree in the shape/structure of the created tree, hence helping us to visualize our created tree.
@@ -34,4 +34,4 @@ from printree import binarytree
 - Compatible with all major operating systems.
 
 ## Project links ​​​🔗​
-- #### [Github](https://github.com/bprajeeth/printree)
+- #### [Github](https://github.com/bprajeeth/displaytree)
