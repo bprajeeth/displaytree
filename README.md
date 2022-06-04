@@ -7,7 +7,7 @@
 
 ## Install ​🖥️​
 ```
- pip install printree
+ pip install displaytree
 ```
 ## Usage ​​📝​
 ```
