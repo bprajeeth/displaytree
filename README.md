@@ -1,6 +1,6 @@
-# **printree** - Python Package 
+> # **printree** - Python Package 
 
-### **printree** is a **Python package** that allows us to **visualize our binarytree**.
+>> ### **printree** is a **Python package** that allows us to **visualize our binarytree**.
 
 ## Compatibility ​​​🐍​
 #### This package is compatible with both **Python 2** and **Python 3**
