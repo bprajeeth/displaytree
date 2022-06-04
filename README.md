@@ -1,13 +1,14 @@
 # **printree** - Python Package 
-#
+\
 ##### **printree** is a **Python package** that allows us to **visualize our binarytree**.
-#
-#
+\
+\
+
 
 ## Compatibility ​​​🐍​
 ##### This package is compatible with both **Python 2** and **Python 3**
 
-#
+\
 ## Install ​🖥️​
 ```
  pip install printree
@@ -31,6 +32,7 @@ from printree import binarytree
 - Equally spaced representation of the tree.
 - Clean and elegant look for clear visualization
 - Created with ​​​🧡​
+\
 ## Operating Systems ​​​💾​
 - Compatible with all major operating systems.
 
