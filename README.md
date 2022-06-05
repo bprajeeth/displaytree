@@ -9,17 +9,17 @@
 ```
  pip install displaytree
 ```
-> ## Usage ​​📝​
+## Usage ​​📝​
 ```
 from displaytree import binarytree
 ```
->> #### ``` binarytree(root_node, "right", "left", "value")```
->>> - The above python syntax prints the binary tree in the shape/structure of the created tree, hence helping us to visualize our created tree.
->>> #### There are **Four arguments** that should be passed: 
->>> - **root_node** - Pass the root node of the created tree.
->>> - **right** - Pass the pointer attribute that points to the right node as a string. 
->>> - **left** - Pass the pointer attribute that points to the left node as a string.
->>> -  **value** - Pass the value attribute of the node which you want to be printed in each node of the tree as a string.
+#### ``` binarytree(root_node, "right", "left", "value")```
+- The above python syntax prints the binary tree in the shape/structure of the created tree, hence helping us to visualize our created tree.
+#### There are **Four arguments** that should be passed: 
+- **root_node** - Pass the root node of the created tree.
+- **right** - Pass the pointer attribute that points to the right node as a string. 
+- **left** - Pass the pointer attribute that points to the left node as a string.
+-  **value** - Pass the value attribute of the node which you want to be printed in each node of the tree as a string.
 
 ## Features ​​​🔥​
 - No need to for any modification in the original python code.
