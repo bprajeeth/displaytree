@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: displaytree
+Version: 1.0.0
+Summary: Python package that helps you visualize your binary tree
+Home-page: https://github.com/bprajeeth/displaytree
+Download-URL: https://github.com/bprajeeth/displaytree/archive/refs/tags/v1.0.0.tar.gz
+Author: bprajeeth
+Author-email: bprajeeth285@gmail.com
+License: MIT
+Keywords: BINARY TREE,PRINT,VISUALIZE,TREE,PRINT BINARY TREE,DISPLAY
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+License-File: LICENSE.txt
