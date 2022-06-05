@@ -25,7 +25,7 @@ from displaytree import binarytree
 - No need to for any modification in the original python code.
 - You can use your own NODE class for creating and operating your binary tree.
 - Thus, helping us to add as many attributes in the NODE class according our requirements. 
-- When a NODE is not present/NULL, it will be presented as ​​​❓​ the NULL  value.
+- When a NODE is not present/NULL, it will be presented as ​​​❓​ in the tree representation.
 - Equally spaced representation of the tree.
 - Clean and elegant look for clear visualization
 - Created with ​​​🧡​
