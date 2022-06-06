@@ -5,7 +5,7 @@
 <p align="center">
     <h1 align="center">displaytree - python package</h1>
     
-<p align="center"><b><mark style="background-color: orange"  >&nbspMIT License&nbsp</mark><mark style="background-color: #FF7F50">&nbspversion : 1.0.0&nbsp</mark><mark style="background-color: #FF4433">&nbspPython&nbsp</mark> </p>
+<p align="center"><img src="https://img.shields.io/badge/version-v1.0.0-orange"> <img src="https://img.shields.io/badge/-Python-blue">  <img src="https://img.shields.io/apm/l/VIM-MODE"> <p>
 
 ### **displaytree** is a **Python package** that allows us to **visualize our binarytree**.
 
