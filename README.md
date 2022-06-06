@@ -1,4 +1,11 @@
-# **displaytree** - Python Package 
+
+
+
+
+<p align="center">
+    <h1 align="center">displaytree - python package</h1>
+    
+<p align="center"><b><mark style="background-color: orange"  >&nbspMIT License&nbsp</mark><mark style="background-color: #FF7F50">&nbspversion : 1.0.0&nbsp</mark><mark style="background-color: #FF4433">&nbspPython&nbsp</mark> </p>
 
 ### **displaytree** is a **Python package** that allows us to **visualize our binarytree**.
 
@@ -16,7 +23,7 @@ from displaytree import binarytree
 #### ``` binarytree(root_node, "right", "left", "value")```
 - The above python syntax prints the binary tree in the shape/structure of the created tree, hence helping us to visualize our created tree.
 #### There are **Four arguments** that should be passed: 
-- **root_node** - Pass the root node of the created tree.
+- **root_node** - Pass the root node(also an object of the node class) of the created tree.
 - **right** - Pass the pointer attribute that points to the right node as a string. 
 - **left** - Pass the pointer attribute that points to the left node as a string.
 -  **value** - Pass the value attribute of the node which you want to be printed in each node of the tree as a string.
